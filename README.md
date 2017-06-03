@@ -18,4 +18,7 @@
 * Simulating supply
 		- Use the stationary bootstrap instead of a parametric model
 		- Incorporate options
+		
+* Arbitrage choice theory to generalize Kirznerian arbitrage
+		- See Kirzner's SEJ Spring 2017 (talk at 2017 Conference)
 
